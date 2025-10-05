@@ -58,4 +58,4 @@ Create your [Github issues](https://github.com/Tencent/tdesign-mobile-react/issu
 
 # License
 
-The MIT License. Please see [the license file](./LICENSE) for more information.
+The MIT License. Please see [the license file](./LICENSE) for more information.1
